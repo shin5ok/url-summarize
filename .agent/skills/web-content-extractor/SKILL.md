@@ -1,5 +1,5 @@
 ---
-name: Web Content Extractor
+name: Web Content Summarizer
 description: Headless ブラウザを使用して X.com や note.com などの動的 Web ページからコンテンツを抽出し、要約するスキル
 ---
 
